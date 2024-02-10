@@ -1,4 +1,4 @@
-import random # 1
+import random # 
 
 def life_journey_game():
 print("Welcome to Life's Journey Game!")
